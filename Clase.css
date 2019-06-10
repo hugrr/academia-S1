@@ -1,0 +1,22 @@
+body {
+   background-color: white;
+}
+img{
+   width: 100%;
+}
+.logo{
+   width: 5%;
+}
+.logo.left{
+    margin-top: 4px;
+}
+.contenedoriconos img{
+    width: 10%;
+}
+.rigth{float: right;}
+.left{float: left;}
+
+.titulo{
+    vertical-align: top
+
+}
