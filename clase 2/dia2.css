@@ -1,0 +1,22 @@
+body > div {
+    min-height: 15rem;
+    background-color: red;
+    margin: 2rem 0;
+}
+
+.div-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div-inline {
+    background-color: black;
+    font-size: 2rem;
+    color: white;
+
+    width: 20%;
+    height: 5rem;
+    display: inline-block;
+    text-align: center;
+}

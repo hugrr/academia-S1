@@ -1,0 +1,21 @@
+.espacio{
+    margin-top:20px;
+}
+
+.counter{
+    margin-left: right:80px;
+
+}
+
+.titulo {
+    float: left;
+}
+
+.fecha {
+    float: right;
+}
+
+#foto .card-body {
+    padding: 0;
+    margin: 0;
+}
